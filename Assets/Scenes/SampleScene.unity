@@ -491,7 +491,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e5bb839662bc4b0bbb65b5b15bdbd96, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rotationChange: {x: 0, y: 0.1, z: 0}
+  rotationChange: {x: 0, y: 0.01, z: 0}
 --- !u!1001 &923679603
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -960,7 +960,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: db91cccfe756344ecbbf0cdda94ab7f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scaleChange: {x: 0.01, y: 0.01, z: 0.01}
+  scaleChange: {x: 0.001, y: 0.001, z: 0.001}
 --- !u!1 &2093709987
 GameObject:
   m_ObjectHideFlags: 0
